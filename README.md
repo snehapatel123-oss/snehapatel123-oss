@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehapatel123-oss&show_icons=true&locale=en" alt="snehapatel123-oss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehapatel123-oss&" alt="snehapatel123-oss" /></p>
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NaEDFYAK--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif">
+
