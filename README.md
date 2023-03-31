@@ -31,5 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehapatel123-oss&" alt="snehapatel123-oss" /></p>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NaEDFYAK--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif">
+<img align="center" alt="Coding" width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
+
+
+
 
